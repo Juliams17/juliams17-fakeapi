@@ -1,0 +1,83 @@
+{
+    "projetos":[
+        {
+            "id":1,
+            "name": "Aprendizado com jogos",
+            "categoria": "Crianças e adolescentes",
+            "atividades": [
+                {
+                    "id": 1,
+                    "name": "Scratch",
+                    "link": "https://scratch.mit.edu/"
+                },
+                {
+                    "id": 2,
+                    "name": "Movimento por uma infância melhor",
+                    "link": "https://www.movimentomim.com.br/"
+                },
+                {
+                    "id": 3,
+                    "name": "Flexbox Froggy",
+                    "link": "https://flexboxfroggy.com/#pt-br"
+                },
+                {
+                    "id": 4,
+                    "name": "Desafio do código",
+                    "link": "https://www.pescadoresdevidas.org.br/desafio/"
+                } 
+            ]
+        },
+        {
+            "id":2,
+            "name": "Cursos",
+            "categoria": "Ensino Médio",
+            "atividades": [
+                {
+                    "id": 1,
+                    "name": "FGV",
+                    "link": "https://ensinomediodigital.fgv.br/Home/Sobre"
+                },
+                {
+                    "id": 2,
+                    "name": "Kultivi",
+                    "link": "https://kultivi.com/"
+                },
+                {
+                    "id": 3,
+                    "name": "Fundação Bradesco",
+                    "link": "https://www.ev.org.br/"
+                },
+                {
+                    "id": 4,
+                    "name": "Khan Academy",
+                    "link": "https://pt.khanacademy.org/"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "name": "Idiomas",
+            "categoria": "Linguas",
+            "atividades": [
+                {
+                    "id": 1,
+                    "name": "Busuu",
+                    "link": "https://www.busuu.com/pt"
+                },
+                {
+                    "id": 2,
+                    "name": "Ginead",
+                    "link": "https://www.ginead.com.br/cursos/de/idiomas"
+                },
+                {
+                    "id": 3,
+                    "name": "Idiomas sem fronteiras",
+                    "link": "https://isf.mec.gov.br/inscricoes/inscricao-curso-online"
+                }
+         
+            ]
+        }
+        
+        
+    ]
+}
